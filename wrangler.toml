@@ -1,3 +1,7 @@
 name = "telegram-form-worker"
 main = "worker.js"
 compatibility_date = "2025-01-01"
+
+[vars]
+BOT_TOKEN = "8390602758:AAGx5zvAB5j1OgCw27x_BqRc2Mz9cDtoymM"
+CHAT_ID = "6320680594"
